@@ -1,3 +1,19 @@
+---
+PR_ID: 263
+Project_Name: EOSAI – Decentralized AI Agents for On-Chain Automation
+Team_Name: EOSAI Core
+Website: https://github.com/mikeseos/eosai
+Legal_Entity: EOSAI Labs Ltd
+Legal_Address: Ireland
+Grant_Amount: 90000
+Grant_Level: Company-level Grant
+Contact_Name: Michael Scanlon
+Contact_Email: michaelscanlonred@gmail.com
+Github_Account: mikeseos
+Open_Source: MIT
+Token_Sale: No
+---
+
 # EOS Network Foundation Grant Application
 
 ## Project Name
