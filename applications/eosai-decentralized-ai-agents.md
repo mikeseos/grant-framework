@@ -13,7 +13,6 @@ Github_Account: mikeseos
 Open_Source: MIT
 Token_Sale: No
 ---
-
 # EOS Network Foundation Grant Application
 
 ## Project Name
