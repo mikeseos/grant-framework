@@ -30,6 +30,11 @@ EOSAI’s core goal is to empower developers and dApp creators to build intellig
 - **Location**: Ireland  
 - **GitHub**: github.com/mikeseos
 
+**Contact Name:** Michael Scanlon  
+**Contact Email:** michaelscanlonred@gmail.com  
+**Project Name:** EOSAI – Decentralized AI Agents for On-Chain Automation  
+**Team Name:** EOSAI Core
+
 ## Relevant Experience
 Lead developer with experience in AI integration, blockchain infrastructure, and open-source tools. Former media tech entrepreneur with a history of delivering lightweight developer SDKs and smart contract automation tools. Contributor to crypto-related automation projects and backend AI workflows.
 
